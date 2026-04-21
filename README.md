@@ -1,16 +1,28 @@
-## Hi there 👋
+**Olá, sou o Luiz! 👋**
 
-<!--
-**Luizxdas/Luizxdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Java Backend com foco no ecossistema Spring Boot e arquitetura de microsserviços. Orientado à eficiência técnica e boas práticas de Clean Code.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠 Tecnologias Principais**
+
+- **Backend:** Java, Spring Boot, Spring Security, FastAPI.
+
+- **Banco de Dados:** PostgreSQL, SQLite, Neon.
+
+- **Infraestrutura & DevOps:** Docker, Kubernetes (Kind), Helm, RabbitMQ, Google Cloud.
+
+- **Frontend:** React, TailwindCSS, JavaScript.
+
+
+**🚀 Projetos em Destaque**
+
+- **[Ficha Ortopédica](https://github.com/Luizxdas/ankle-flex-ficha):** Sistema completo para gestão de pacientes utilizando arquitetura Java/Spring Boot e Electron.
+
+- **[Simulação de Microsserviços](https://github.com/Luizxdas/microflow-simulator):** Arquitetura assíncrona com RabbitMQ, monitorada via Prometheus e Grafana em cluster Kubernetes local.
+
+
+**📫 Contato**
+
+- **LinkedIn:** linkedin.com/in/luizxdas 
+
+- **E-mail:** luizxdas@outlook.com
